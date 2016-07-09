@@ -1,0 +1,21 @@
+{
+  "characteristic": [
+    {
+      "main" : {
+        "producer": "ASUS",
+        "model": "Ноутбук ASUS K501UX",
+        "OS": "Windows"
+      },
+      "display": {
+        "diagonal": "15.6",
+        "resolution": "1920x1080"
+      },
+      "processor":{
+        "producer":  "Intel",
+        "line": "I7",
+        "model": "6500U",
+        "rate": "2500"
+      }
+    }
+  ]
+}
