@@ -148,7 +148,6 @@ gulp.watch("./assets/jsx/*.jsx", ['build']);
 gulp.watch("./assets/js/*.js", ['js']);
 gulp.watch("./assets/js/libs/*.js", ['jslibs']);
 gulp.watch("./assets/js/modules/**/*.js", ['jsmods']);
-gulp.watch("./assets/*",['copyFiles']);
 gulp.watch("./public/js/*.js").on("change", server.reload );
 gulp.watch("./public/*.html").on("change", server.reload );
 gulp.watch("./public/css/*.css").on("change", server.reload );
