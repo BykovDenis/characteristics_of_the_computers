@@ -30,7 +30,7 @@
     "processor":{
       "producer":  "Intel",
       "line": "I7",
-      "model": "-",
+      "model": "",
       "rate": "1300",
       "core" : "2"
     }
